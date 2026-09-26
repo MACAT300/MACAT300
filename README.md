@@ -1,26 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    MACAT300 GITHUB PROFILE                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# ⚡ SIN / MACAT300
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=220&section=header&text=Hi%2C%20I'm%20SIN!%20♡&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18" />
 
-### `Software Engineering Student` · `Developer` · `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work+%F0%9F%9A%80;Android+%7C+Spring+Boot+%7C+Web+Development;Turning+ideas+into+code+%E2%9C%A8;Debugging+is+part+of+the+journey+%F0%9F%90%9B" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;Building+apps+with+love+%E2%99%A1;Android+%7C+Kotlin+%7C+Spring+Boot;Turning+coffee+into+code+%E2%98%95%F0%9F%A9%B7;Debugging+one+bug+at+a+time+%F0%9F%90%9B" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MACAT300&label=PROFILE%20VIEWS&color=8BE9FD&style=for-the-badge" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-MACAT300-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MACAT300)
-[![Student](https://img.shields.io/badge/Software%20Engineering-Student-7C3AED?style=for-the-badge)](https://github.com/MACAT300)
-[![Focus](https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge)](https://github.com/MACAT300)
+<img src="https://komarev.com/ghpvc/?username=MACAT300&label=PROFILE%20VISITORS&color=FF69B4&style=for-the-badge" />
 
 </div>
 
@@ -28,186 +14,57 @@
 
 <div align="center">
 
-## 🧬 `whoami`
+# 🎀 `ABOUT ME`
 
 </div>
 
-```text
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   👋 Hey! I'm SIN                                                │
-│                                                                  │
-│   🎓 Software Engineering Student                                │
-│   💻 Developer who enjoys building real applications             │
-│   📱 Android + Kotlin                                             │
-│   ☕ Java + Spring Boot                                            │
-│   🌐 PHP + JavaScript                                              │
-│   🗄️ SQL + Database Development                                   │
-│                                                                  │
-│   Currently building:                                            │
-│                                                                  │
-│       🏸  SHUTTLECOCK MARKETPLACE                                │
-│                                                                  │
-│   Turning ideas → code → bugs → fixes → working software. 🚀     │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
-
----
-
-<div align="center">
-
-## ⚡ TECH STACK
-
-### `LANGUAGES`
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge\&logo=kotlin\&logoColor=A97BFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge\&logo=php\&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### `FRAMEWORKS & DEVELOPMENT`
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge\&logo=android\&logoColor=3DDC84)
-![Retrofit](https://img.shields.io/badge/Retrofit-0D1117?style=for-the-badge\&logo=android\&logoColor=48B983)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-
-### `DATABASE`
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=CC2927)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### `TOOLS`
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge\&logo=androidstudio\&logoColor=3DDC84)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0D1117?style=for-the-badge\&logo=intellijidea\&logoColor=FE2857)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-
-</div>
-
----
-
-# 🏸 `CURRENT PROJECT`
-
-<div align="center">
-
-# 🏸 SHUTTLECOCK MARKETPLACE
-
-### `Android × Spring Boot × SQL Server`
-
-</div>
-
-```text
-                    ┌──────────────────┐
-                    │   📱 ANDROID APP │
-                    │                  │
-                    │     Kotlin       │
-                    │     XML UI       │
-                    │     Retrofit     │
-                    └────────┬─────────┘
-                             │
-                             │ REST API
-                             ▼
-                    ┌──────────────────┐
-                    │  ☕ SPRING BOOT  │
-                    │                  │
-                    │   REST API       │
-                    │   JWT Auth       │
-                    │   Security       │
-                    │   Products       │
-                    │   Orders         │
-                    │   Payments       │
-                    └────────┬─────────┘
-                             │
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   🗄️ DATABASE    │
-                    │                  │
-                    │   SQL Server     │
-                    │                  │
-                    └──────────────────┘
-```
-
-### ✨ Features
-
-```text
-🔐 Authentication
-👤 User Management
-🏸 Product Browsing
-🔎 Product Search
-🏷️ Brand Filtering
-🛒 Shopping Cart
-📦 Order Management
-💳 Payment Flow
-🖼️ Product Images
-🔑 JWT Security
-🌐 REST API
-```
-
-> **Goal:** Build a realistic marketplace instead of just another classroom CRUD project.
-
----
-
-# 🚀 PROJECTS
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-### 🏸 ShuttleCock Marketplace
-
-Full-stack mobile marketplace for purchasing shuttlecocks.
-
-**Stack**
-
-`Kotlin` `Android` `Spring Boot`
-`Java` `SQL Server` `JWT`
-
-</td>
-
-<td width="50%">
-
-### 🏨 Hotel Booking System
-
-Web-based hotel booking application.
-
-**Stack**
-
-`JavaScript` `HTML` `CSS`
-`Database`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐘 Tank Management System
-
-PHP web application for managing tank information from different countries.
-
-**Stack**
-
-`PHP` `JavaScript` `HTML`
-`CSS` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 🧪 More Projects Loading...
-
-Currently experimenting with new ideas.
+<td>
 
 ```text
-████████████████░░░░ 80%
+╭──────────────────────────────────╮
+│                                  │
+│       🌸 H E L L O ! 🌸         │
+│                                  │
+│  ♡ Software Engineering Student │
+│  ♡ Android Developer            │
+│  ♡ Backend Developer             │
+│  ♡ Web Developer                 │
+│                                  │
+│  📱 Kotlin + Android             │
+│  ☕ Java + Spring Boot           │
+│  🌐 PHP + JavaScript             │
+│  🗄️ SQL + Databases              │
+│                                  │
+│  Currently building:             │
+│                                  │
+│       🏸 ShuttleCock             │
+│          Marketplace             │
+│                                  │
+╰──────────────────────────────────╯
 ```
+
+</td>
+
+<td>
+
+### 🩷 A little about me
+
+I'm a Software Engineering student who enjoys turning random ideas into actual software.
+
+I like building:
+
+🌸 Mobile applications
+🎀 Backend systems
+💗 Web applications
+🧸 Database-driven projects
+
+Currently working on a **ShuttleCock Marketplace** using Android, Kotlin, Spring Boot and SQL Server.
+
+My development philosophy:
+
+> **Make it work → make it better → make it pretty.** 🎀
 
 </td>
 </tr>
@@ -215,81 +72,259 @@ Currently experimenting with new ideas.
 
 ---
 
-# 🧠 CURRENTLY LEARNING
-
-```text
-Android Architecture       █████████████████░░░ 85%
-
-Spring Boot                 ████████████████░░░░ 80%
-
-REST API Development        █████████████████░░░ 85%
-
-SQL / Database Design       ███████████████░░░░░ 75%
-
-JWT / Security              ████████████░░░░░░░░ 60%
-
-Software Architecture       ██████████░░░░░░░░░░ 50%
-
-Cloud / Deployment          ██████░░░░░░░░░░░░░░ 30%
-```
-
-*Progress bars are just for fun — not scientific measurements. 😭*
-
----
-
-# 🐛 DEVELOPER MODE
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  $ ./build-project.sh                              │
-│                                                    │
-│  [██████████████████████████████████] 100%         │
-│                                                    │
-│  ✓ Compiling                                      │
-│  ✓ Connecting database                            │
-│  ✓ Starting backend                               │
-│  ✓ Launching Android app                          │
-│                                                    │
-│  ERROR: Something went wrong.                     │
-│                                                    │
-│  Developer: 💀                                    │
-│                                                    │
-│  > restart                                        │
-│  > clean                                          │
-│  > rebuild                                        │
-│  > pray                                            │
-│                                                    │
-│  ✓ IT WORKS                                       │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 GITHUB ANALYTICS
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MACAT300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+# 🌷 `MY TECH STACK`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACAT300&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+### 🎀 Languages
+
+![Java](https://img.shields.io/badge/Java-FFF0F6?style=for-the-badge\&logo=openjdk\&logoColor=FF69B4)
+![Kotlin](https://img.shields.io/badge/Kotlin-FFF0F6?style=for-the-badge\&logo=kotlin\&logoColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF0F6?style=for-the-badge\&logo=javascript\&logoColor=FF69B4)
+![PHP](https://img.shields.io/badge/PHP-FFF0F6?style=for-the-badge\&logo=php\&logoColor=FF69B4)
+![SQL](https://img.shields.io/badge/SQL-FFF0F6?style=for-the-badge\&logo=mysql\&logoColor=FF69B4)
+
+### 🌸 Frameworks & Development
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFE4EF?style=for-the-badge\&logo=springboot\&logoColor=E75480)
+![Android](https://img.shields.io/badge/Android-FFE4EF?style=for-the-badge\&logo=android\&logoColor=E75480)
+![Retrofit](https://img.shields.io/badge/Retrofit-FFE4EF?style=for-the-badge\&logo=android\&logoColor=E75480)
+![HTML5](https://img.shields.io/badge/HTML5-FFE4EF?style=for-the-badge\&logo=html5\&logoColor=E75480)
+![CSS3](https://img.shields.io/badge/CSS3-FFE4EF?style=for-the-badge\&logo=css3\&logoColor=E75480)
+
+### 🧸 Database & Tools
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-FFF0F6?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=FF69B4)
+![MySQL](https://img.shields.io/badge/MySQL-FFF0F6?style=for-the-badge\&logo=mysql\&logoColor=FF69B4)
+![Git](https://img.shields.io/badge/Git-FFF0F6?style=for-the-badge\&logo=git\&logoColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-FFF0F6?style=for-the-badge\&logo=github\&logoColor=FF69B4)
+![Android Studio](https://img.shields.io/badge/Android_Studio-FFF0F6?style=for-the-badge\&logo=androidstudio\&logoColor=FF69B4)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FFF0F6?style=for-the-badge\&logo=intellijidea\&logoColor=FF69B4)
+![VS Code](https://img.shields.io/badge/VS_Code-FFF0F6?style=for-the-badge\&logo=visualstudiocode\&logoColor=FF69B4)
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🏸 `CURRENTLY BUILDING`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MACAT300&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFE4EF&height=100&section=header&text=%F0%9F%8F%B8%20SHUTTLECOCK%20MARKETPLACE&fontSize=30&fontColor=E75480&animation=fadeIn" />
+
+</div>
+
+### 💗 What is it?
+
+A full-stack marketplace application for browsing and purchasing shuttlecocks.
+
+### 📱 Android
+
+```text
+🎀 Kotlin
+🎀 Android XML
+🎀 Retrofit
+🎀 OkHttp
+🎀 Room
+🎀 JWT Authentication
+🎀 Product Search
+🎀 Product Filtering
+🎀 Shopping Cart
+🎀 Orders
+🎀 User Authentication
+```
+
+### ☕ Backend
+
+```text
+🌸 Java
+🌸 Spring Boot
+🌸 REST API
+🌸 Spring Security
+🌸 JWT
+🌸 SQL Server
+🌸 Product Management
+🌸 User Management
+🌸 Orders
+🌸 Payments
+```
+
+### 🩷 Architecture
+
+```text
+                 🎀 ANDROID APP
+                       │
+                       │ Retrofit
+                       ▼
+              🌸 SPRING BOOT API
+                       │
+                 REST + JWT
+                       │
+                       ▼
+                  🗄️ SQL SERVER
+```
+
+---
+
+# 🍓 `MY PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏸 ShuttleCock Marketplace
+
+My current main project.
+
+A mobile marketplace for buying shuttlecocks.
+
+**Tech**
+
+`Kotlin`
+`Android`
+`Spring Boot`
+`Java`
+`SQL Server`
+`JWT`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏨 Hotel Booking System
+
+A web-based hotel booking application.
+
+**Tech**
+
+`JavaScript`
+`HTML`
+`CSS`
+`Database`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐘 Tank Management System
+
+PHP application for displaying and managing tanks from different countries.
+
+**Tech**
+
+`PHP`
+`JavaScript`
+`HTML`
+`CSS`
+`SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌷 More coming soon...
+
+```text
+loading...
+████████████████░░░░
+        80%
+```
+
+✨ Currently experimenting with
+new ideas.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎀 `DEVELOPER LIFE`
+
+</div>
+
+```text
+       🌸 IDEA
+         │
+         ▼
+    💻 WRITE CODE
+         │
+         ▼
+    ▶️ RUN PROJECT
+         │
+         ▼
+     🐛 ERROR
+         │
+         ▼
+    😭 WHY???
+         │
+         ▼
+    🔎 DEBUGGING
+         │
+         ▼
+    ☕ COFFEE
+         │
+         ▼
+    🔧 FIX IT
+         │
+         ▼
+    ✨ IT WORKS ✨
+         │
+         ▼
+    🎀 MAKE IT PRETTY
+```
+
+---
+
+# 🌱 `CURRENTLY LEARNING`
+
+<div align="center">
+
+| 🌸 Topic                 | 💗 Status  |
+| ------------------------ | ---------- |
+| 📱 Android Development   | 🩷🩷🩷🩷🩷 |
+| ☕ Spring Boot            | 🩷🩷🩷🩷♡  |
+| 🌐 REST APIs             | 🩷🩷🩷🩷🩷 |
+| 🗄️ Database Design      | 🩷🩷🩷🩷♡  |
+| 🔐 Authentication        | 🩷🩷🩷♡♡   |
+| 🧩 Software Architecture | 🩷🩷🩷♡♡   |
+| ☁️ Cloud Deployment      | 🩷🩷♡♡♡    |
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🌸 `GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MACAT300&show_icons=true&theme=radical&bg_color=FFF5FA&title_color=E75480&icon_color=FF69B4&text_color=6B4C5A&border_color=FFB6D9&hide_border=false&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACAT300&layout=compact&theme=radical&bg_color=FFF5FA&title_color=E75480&text_color=6B4C5A&border_color=FFB6D9&hide_border=false" height="180"/>
+
+</div>
+
+---
+
+# 🎀 `CONTRIBUTION STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MACAT300&theme=rose-pine&hide_border=false&background=FFF5FA&ring=FF69B4&fire=FF69B4&currStreakLabel=E75480&sideLabels=E75480&currStreakNum=E75480&sideNums=E75480&dates=9B7180" />
+
+</div>
+
+---
+
+# 🐰 `CONTRIBUTION SNAKE`
 
 <div align="center">
 
@@ -299,124 +334,56 @@ Cloud / Deployment          ██████░░░░░░░░░░░�
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 `GITHUB TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MACAT300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=MACAT300&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
-# 🌌 THE JOURNEY
+# 🎯 `2026 QUESTS`
 
 ```text
-                    🌱
-                   START
-                     │
-                     ▼
-              ┌─────────────┐
-              │ Programming │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │     OOP     │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │     Web     │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │  Databases  │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │   Android   │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │ Spring Boot │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │ Full Stack  │
-              └──────┬──────┘
-                     │
-                     ▼
-                   🚀
-              KEEP BUILDING
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  ✅ Learn Android Development                       │
+│  ✅ Build REST APIs                                 │
+│  ✅ Learn Spring Boot                               │
+│  ✅ Work with SQL databases                         │
+│  ✅ Implement Authentication                        │
+│                                                      │
+│  ⬜ Deploy a complete application          ☁️       │
+│  ⬜ Improve software architecture           🧠       │
+│  ⬜ Learn cloud deployment                 🌐       │
+│  ⬜ Build production-style projects        🏗️       │
+│  ⬜ Contribute to open source              🌎       │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🎯 2026 QUEST LOG
-
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  [✓] Learn Android Development                     │
-│  [✓] Build REST APIs                               │
-│  [✓] Learn Spring Boot                             │
-│  [✓] Work with SQL databases                       │
-│  [✓] Implement Authentication                      │
-│                                                    │
-│  [ ] Deploy a complete application        🚀       │
-│  [ ] Improve Software Architecture        🧠       │
-│  [ ] Learn Cloud Deployment              ☁️       │
-│  [ ] Build production-style projects    🏗️       │
-│  [ ] Contribute to Open Source          🌎       │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
-
----
-
-# 💬 RANDOM DEVELOPER THOUGHT
-
-<div align="center">
-
-> ### `"It works on my machine."`
-
-<br>
-
-**— every developer at least once**
-
-</div>
-
----
-
-# 📡 CONNECT
+# 💌 `LET'S CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/MACAT300">
 
-<img src="https://img.shields.io/badge/GitHub-MACAT300-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-MACAT300-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <br><br>
 
-### ✨ Thanks for stopping by ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer" />
 
-```text
-╭────────────────────────────────────────╮
-│                                        │
-│        Keep coding. Keep building.     │
-│                                        │
-│              ⚡ MACAT300 ⚡             │
-│                                        │
-╰────────────────────────────────────────╯
-```
+### 🌸 Thanks for visiting my profile! 🌸
 
-⭐ Feel free to explore my repositories.
+**♡ Code with love. Debug with patience. Build with passion. ♡**
+
+`🎀` `🌷` `🩷` `💻` `✨` `🏸` `☕`
 
 </div>
