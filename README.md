@@ -1,272 +1,252 @@
-# 👋 Hey, I'm SIN
+# 🌷 Hi there! I'm SIN ♡
 
-### 💻 Software Engineering Student | Full-Stack & Android Developer
+### `software engineering student` · `developer` · `professional bug creator` 🐛
 
-I’m a Software Engineering student who enjoys building **mobile applications, backend systems, and web applications**.
+Welcome to my little corner of GitHub! 🫧
 
-I like turning ideas into working software — from designing the UI and building REST APIs to connecting databases and implementing authentication.
+I'm a Software Engineering student who enjoys creating **mobile apps, websites, backend systems, and random little projects** that sometimes work on the first try. ✨
 
-Currently building and experimenting with **Android, Kotlin, Spring Boot, PHP, JavaScript, and SQL**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Software Engineering Student
-* 📱 Interested in Android Development
-* ☕ Building backend systems with Java & Spring Boot
-* 🌐 Developing web applications with PHP & JavaScript
-* 🗄️ Working with SQL databases
-* 🔐 Learning authentication, REST APIs & secure application design
-* 🏸 Currently building a Shuttlecock Marketplace
-* 🚀 Always learning and experimenting with new technologies
+```text
+╭──────────────────────────────────────╮
+│                                      │
+│     🌸 coding • learning • creating  │
+│                                      │
+│     ☕ coffee + code + debugging     │
+│                                      │
+╰──────────────────────────────────────╯
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 A little about me
 
-### Languages
+```text
+🎓  Software Engineering Student
+💻  I like building things
+📱  Android + Kotlin enjoyer
+☕  Java + Spring Boot enjoyer
+🌐  Web development enjoyer
+🐛  Bug collector
+🏸  Building a Shuttlecock Marketplace
+✨  Learning something new every day
+```
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+I enjoy taking an idea and slowly turning it into something that actually works.
 
-### Frameworks & Development
+Even when the code says:
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge\&logo=android\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+> `WHY IS THIS NOT WORKING 😭`
 
-### Database
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+I usually keep going until it works. ♡
 
 ---
 
-# 🚀 Featured Projects
+## 🎀 My Tech Corner
 
-## 🏸 ShuttleCock Marketplace
+### 🌸 Languages
 
-A full-stack marketplace application for browsing and purchasing shuttlecocks.
+![Java](https://img.shields.io/badge/Java-FF9B9B?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-BB9AF7?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7D774?style=for-the-badge\&logo=javascript\&logoColor=333333)
+![PHP](https://img.shields.io/badge/PHP-AE9BD6?style=for-the-badge\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8CB4FF?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 📱 Android Application
+### 🧸 Frameworks & Development
 
-* Kotlin
-* Android XML
-* Retrofit
-* OkHttp
-* Room
-* JWT Authentication
-* Shopping Cart
-* Product Search & Filtering
-* Order Management
-* User Authentication
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-9ED6A7?style=for-the-badge\&logo=springboot\&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-A8DDB5?style=for-the-badge\&logo=android\&logoColor=ffffff)
+![Retrofit](https://img.shields.io/badge/Retrofit-9FD8C7?style=for-the-badge\&logo=android\&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-FFB38A?style=for-the-badge\&logo=html5\&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-9EC5FF?style=for-the-badge\&logo=css3\&logoColor=ffffff)
+
+### 🍰 Database
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-F5A3A3?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9CC8E8?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🧸 Tools I use
+
+![Git](https://img.shields.io/badge/Git-F29B9B?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C5B5E8?style=for-the-badge\&logo=github\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-A8DDB5?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-B9A7D8?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-9EC5FF?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🏸 Currently Building...
+
+## ✨ ShuttleCock Marketplace
+
+My current big project!
+
+A full-stack marketplace for people who want to buy shuttlecocks. 🏸
+
+### 📱 Android App
+
+```text
+♡ Kotlin
+♡ Android XML
+♡ Retrofit
+♡ OkHttp
+♡ Room
+♡ JWT Authentication
+♡ Product Search
+♡ Product Filtering
+♡ Shopping Cart
+♡ Orders
+♡ User Authentication
+```
 
 ### ☕ Backend
 
-* Java
-* Spring Boot
-* REST API
-* Spring Security
-* JWT
-* SQL Server
-* Product Management
-* User Management
-* Order & Payment System
-
-> Building this project to explore how a real-world mobile marketplace can be designed from frontend to backend.
-
----
-
-## 🏨 Hotel Booking System
-
-A web-based hotel booking application developed as part of my software development projects.
-
-### Features
-
-* 🏨 Hotel browsing
-* 🔎 Search functionality
-* 📅 Booking management
-* 👤 User interaction
-* 💾 Database integration
-
-**Technologies:** JavaScript · HTML · CSS · Database
-
----
-
-## 🐘 PHP Tank Management System
-
-A PHP-based web application focused on managing and displaying tanks from different countries.
-
-### Features
-
-* 🌍 Country-based tank information
-* 🛡️ Tank data management
-* 🔎 Search & browsing
-* 💾 Database integration
-* 🌐 Dynamic PHP pages
-
-**Technologies:** PHP · HTML · CSS · JavaScript · SQL
-
----
-
-# 📚 What I'm Learning
-
 ```text
-Programming
-     │
-     ▼
-Object-Oriented Programming
-     │
-     ▼
-Web Development
-     │
-     ▼
-Database Development
-     │
-     ▼
-Android Development
-     │
-     ▼
-Spring Boot & REST APIs
-     │
-     ▼
-Full-Stack Applications
-     │
-     ▼
-Real-World Software Projects 🚀
+♡ Java
+♡ Spring Boot
+♡ REST API
+♡ Spring Security
+♡ JWT
+♡ SQL Server
+♡ Product Management
+♡ User Management
+♡ Orders
+♡ Payments
 ```
 
-Currently focusing on:
-
-* 🔐 JWT Authentication
-* 🌐 REST API Architecture
-* 📱 Android Application Architecture
-* 🗄️ Database Design
-* 🧩 Object-Oriented Programming
-* 🏗️ Software Design Patterns
-* 🔄 Git & GitHub workflows
-* ☁️ Deployment & real-world application development
+> 🏸 From database → backend → API → Android app → hopefully a working product.
+> One bug at a time. 🐛
 
 ---
 
-# 🧠 Development Interests
+# 🧁 Some Things I've Built
+
+### 🏨 Hotel Booking System
+
+A web-based hotel booking project.
+
+**Made with:**
+`JavaScript` · `HTML` · `CSS` · `Database`
+
+---
+
+### 🐘 PHP Tank Management System
+
+A PHP project for displaying and managing tanks from different countries.
+
+**Made with:**
+`PHP` · `HTML` · `CSS` · `JavaScript` · `SQL`
+
+---
+
+# 🌱 Currently Learning
 
 ```text
-📱 Mobile Development
-        │
-        ├── Android
-        ├── Kotlin
-        └── REST APIs
-
-☕ Backend Development
-        │
-        ├── Java
-        ├── Spring Boot
-        ├── Spring Security
-        └── JWT
-
-🌐 Web Development
-        │
-        ├── PHP
-        ├── JavaScript
-        ├── HTML
-        └── CSS
-
-🗄️ Data
-        │
-        ├── SQL Server
-        ├── MySQL
-        └── Database Design
+╭────────────────────────────╮
+│                            │
+│  📱 Android Development    │
+│  ☕ Spring Boot            │
+│  🔐 Authentication         │
+│  🌐 REST APIs              │
+│  🗄️ Database Design        │
+│  🧩 Design Patterns        │
+│  🏗️ Software Architecture  │
+│  ☁️ Cloud & Deployment     │
+│                            │
+╰────────────────────────────╯
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 🐛 Daily Developer Experience
+
+```text
+Write code
+   ↓
+Run code
+   ↓
+💥 Error
+   ↓
+Google
+   ↓
+Try something
+   ↓
+💥 Different error
+   ↓
+Question everything
+   ↓
+Try again
+   ↓
+✨ IT WORKS
+   ↓
+Don't touch anything
+```
+
+---
+
+# 🍓 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MACAT300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MACAT300&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACAT300&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACAT300&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MACAT300&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 My Development Journey
+# 🌸 My Coding Journey
 
 ```text
-Programming
-     │
-     ▼
-Object-Oriented Programming
-     │
-     ▼
-Web Development
-     │
-     ▼
-Database Development
-     │
-     ▼
-Android Development
-     │
-     ▼
-Spring Boot & REST APIs
-     │
-     ▼
-Full-Stack Applications
-     │
-     ▼
-Real-World Software Projects 🚀
+        🌱
+     Learning
+        │
+        ▼
+     💻 Coding
+        │
+        ▼
+     🐛 Bugs
+        │
+        ▼
+     🔧 Debugging
+        │
+        ▼
+     ✨ Learning
+        │
+        ▼
+     🚀 Building
+        │
+        ▼
+     🌷 Growing
 ```
 
 ---
 
 # 🎯 2026 Goals
 
-* [x] Build Android applications
-* [x] Build REST APIs
-* [x] Work with SQL databases
-* [x] Learn Spring Boot
-* [x] Implement authentication
-* [ ] Deploy a complete full-stack application
-* [ ] Improve software architecture skills
-* [ ] Learn more about cloud deployment
-* [ ] Build more production-style applications
-* [ ] Contribute to open-source projects
+```text
+[✓] Learn Android development
+[✓] Build REST APIs
+[✓] Work with SQL databases
+[✓] Learn Spring Boot
+[✓] Implement authentication
+
+[ ] 🚀 Deploy a complete application
+[ ] ☁️ Learn cloud deployment
+[ ] 🧩 Improve software architecture
+[ ] 🌎 Build something people actually use
+[ ] 🌱 Contribute to open source
+[ ] 💻 Become a better developer
+```
 
 ---
 
-# 📫 Connect With Me
+# 💌 Find Me
 
 <div align="center">
 
 <a href="https://github.com/MACAT300">
-<img src="https://img.shields.io/badge/GitHub-MACAT300-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-MACAT300-C8B6E2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -275,10 +255,17 @@ Real-World Software Projects 🚀
 
 <div align="center">
 
-### 💻 Build. Break. Learn. Repeat. 🚀
+```text
+૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-Thanks for visiting my profile!
+thank you for visiting my profile ♡
 
-⭐ Feel free to explore my repositories.
+keep coding & keep creating ✨
+
+🌷 ☕ 💻 🐛 🏸 🌸
+
+```
+
+### `♡ Build something cute. Build something useful. ♡`
 
 </div>
